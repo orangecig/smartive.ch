@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'smartive',
-    siteUrl: 'https://smartive.ch',
+    siteUrl: '',
   },
   plugins: [
     {
